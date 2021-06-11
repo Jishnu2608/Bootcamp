@@ -1,0 +1,40 @@
+#horse {
+    width:1505px;
+    height:500px;
+    border-radius: 8px;
+}
+#title {
+    color:#000087;
+    font-family:Bradley Hand, cursive;
+    font-size:60px;
+    text-align: center;
+}
+p {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    text-align: center;
+
+}
+button {
+    height: 40px;
+    width: 200px; 
+    cursor: pointer;
+    background-color: #A8D1DF;
+    color: black;
+    border-radius: 10px;
+    border:#A8D1DF;
+    font-size: 1em;
+    font-weight: 500;
+}
+#button {
+    text-align: right;
+    padding-right: 30px;
+}
+button:hover {
+    background-color: #000087;
+    color: azure;
+}
+button:focus {
+    background-color:#1AA3E8;
+    color:black;
+}
